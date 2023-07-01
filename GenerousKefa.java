@@ -36,13 +36,9 @@ public class GenerousKefa {
        // System.out.println(a2);
         if(a2.get(a2.size()-1)<=k)
         {
-            System.out.println("Yes");
+            System.out.println("YES");
         }
-        else System.out.println("No");
-
-
-
-
+        else System.out.println("NO");
 
     }
 }
