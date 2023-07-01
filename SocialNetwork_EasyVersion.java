@@ -43,7 +43,5 @@ public class SocialNetwork_EasyVersion {
         {
             System.out.print(a1.get(z)+" ");
         }
-
-
     }
 }
